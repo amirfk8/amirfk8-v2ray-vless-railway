@@ -4,7 +4,7 @@
     "protocol": "vmess",
     "settings": {
       "clients": [{
-        "id": "YOUR_UUID_HERE",
+        "id": "267c8576-f204-4fdd-b93f-18c187f4ecc9",
         "alterId": 0
       }]
     },
